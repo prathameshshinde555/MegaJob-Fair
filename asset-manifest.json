@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.js": "/MegaJob-Fair/static/js/main.4dad8828.chunk.js",
+    "main.js.map": "/MegaJob-Fair/static/js/main.4dad8828.chunk.js.map",
+    "runtime-main.js": "/MegaJob-Fair/static/js/runtime-main.72fe55f2.js",
+    "runtime-main.js.map": "/MegaJob-Fair/static/js/runtime-main.72fe55f2.js.map",
+    "static/js/2.0d817a76.chunk.js": "/MegaJob-Fair/static/js/2.0d817a76.chunk.js",
+    "static/js/2.0d817a76.chunk.js.map": "/MegaJob-Fair/static/js/2.0d817a76.chunk.js.map",
+    "index.html": "/MegaJob-Fair/index.html",
+    "static/js/2.0d817a76.chunk.js.LICENSE.txt": "/MegaJob-Fair/static/js/2.0d817a76.chunk.js.LICENSE.txt",
+    "static/media/bg-bg.21817d55.jpg": "/MegaJob-Fair/static/media/bg-bg.21817d55.jpg",
+    "static/media/bg-coworking.06bccc47.jpeg": "/MegaJob-Fair/static/media/bg-coworking.06bccc47.jpeg",
+    "static/media/blog-9-4.de736e0b.jpg": "/MegaJob-Fair/static/media/blog-9-4.de736e0b.jpg",
+    "static/media/blog2.aba7a3cb.jpg": "/MegaJob-Fair/static/media/blog2.aba7a3cb.jpg",
+    "static/media/city-profile.4d64bba9.jpg": "/MegaJob-Fair/static/media/city-profile.4d64bba9.jpg",
+    "static/media/illustration-reset.c5f36c0c.jpg": "/MegaJob-Fair/static/media/illustration-reset.c5f36c0c.jpg",
+    "static/media/job.ae21de66.jpg": "/MegaJob-Fair/static/media/job.ae21de66.jpg",
+    "static/media/logo-apple.f9c2682e.svg": "/MegaJob-Fair/static/media/logo-apple.f9c2682e.svg",
+    "static/media/logo-digitalocean.a1f147b0.svg": "/MegaJob-Fair/static/media/logo-digitalocean.a1f147b0.svg",
+    "static/media/logo-facebook.106d2ac0.svg": "/MegaJob-Fair/static/media/logo-facebook.106d2ac0.svg",
+    "static/media/logo-nasa.c5d11f88.svg": "/MegaJob-Fair/static/media/logo-nasa.c5d11f88.svg",
+    "static/media/logo-vodafone.b3e8486c.svg": "/MegaJob-Fair/static/media/logo-vodafone.b3e8486c.svg",
+    "static/media/rotating-card-bg-back.183088de.jpeg": "/MegaJob-Fair/static/media/rotating-card-bg-back.183088de.jpeg",
+    "static/media/testimonial-6-2.21f2048f.jpg": "/MegaJob-Fair/static/media/testimonial-6-2.21f2048f.jpg",
+    "static/media/testimonial-6-3.d35bef0d.jpg": "/MegaJob-Fair/static/media/testimonial-6-3.d35bef0d.jpg",
+    "static/media/waves-white.7e7579c6.svg": "/MegaJob-Fair/static/media/waves-white.7e7579c6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72fe55f2.js",
+    "static/js/2.0d817a76.chunk.js",
+    "static/js/main.4dad8828.chunk.js"
+  ]
+}
